@@ -39,12 +39,10 @@ To set up the project locally, follow these steps:
 
 1. *Clone the repository*:
 
-To set up the project locally, follow these steps:
+    To set up the project locally, follow these steps.
 
-### Clone the repository
-
-```sh
-git clone https://github.com/your-username/weather-dashboard.git
+    bash
+    git clone https://github.com/your-username/weather-dashboard.git
     
 
 2. *Navigate to the project directory*:
