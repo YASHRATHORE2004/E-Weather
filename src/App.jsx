@@ -56,7 +56,7 @@ const App = () => {
     <div
       className="app-wrapper"
       style={{
-        backgroundImage: `url('../assets/background.jpg')`,
+        backgroundImage: `url('./background.jpg')`,
         backgroundSize: "cover",
         minHeight: "100vh",
         padding: "20px",
